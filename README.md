@@ -1,6 +1,6 @@
 # cm-matriz
 
-Projeto realizado para o processo da CM Tecnologia.
+Projeto de estudos sobre Matriz
 
 Questões respondidas:
 
